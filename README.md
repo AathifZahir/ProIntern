@@ -27,17 +27,17 @@
 To run the app locally, follow these steps:
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/pro-intern.git
-   ```
+```
+git clone https://github.com/yourusername/pro-intern.git
+```
 2. Install dependencies:
-  ```
-  npm install
-  ```
+```
+npm install
+```
 3. Start the Expo server:
-  ```
-  expo start
-  ```
+```
+expo start
+```
 
 ## Key Components
 
