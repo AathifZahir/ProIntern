@@ -18,7 +18,7 @@
 
 - **Frontend**: React Native (Expo)
 - **Backend**: Firebase
-- **Font**: Poppins and Inter
+- **Font**: Poppins
 - **Icons**: Ionicons (from Expo)
 - **Storage**: AsyncStorage for role management
 
@@ -66,7 +66,7 @@ expo start
 
 ## Role Management
 
-- Roles are managed using **AsyncStorage**, and the app has separate flows for **professionals** and **interns**.
+- Roles are managed using **AsyncStorage**, and the app has separate flows for **recruits** and **interns**.
 
 ## Future Enhancements
 
