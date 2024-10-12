@@ -16,11 +16,12 @@
 
 ## Technology Stack
 
-- **Frontend**: React Native (Expo)
-- **Backend**: Firebase
-- **Font**: Poppins
-- **Icons**: Ionicons (from Expo)
-- **Storage**: AsyncStorage for role management
+- ![React Native](https://img.shields.io/badge/Frontend-React%20Native%20(Expo)-61DAFB?logo=react)  
+- ![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?logo=firebase)  
+- ![Poppins](https://img.shields.io/badge/Font-Poppins-000000?logo=googlefonts)  
+- ![Ionicons](https://img.shields.io/badge/Icons-Ionicons-lightgrey?logo=ionic)  
+- ![AsyncStorage](https://img.shields.io/badge/Storage-AsyncStorage-blue?logo=datastax)  
+
 
 ## Installation
 
