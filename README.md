@@ -2,17 +2,25 @@
 
 ## Overview
 
-**Pro Intern** is a mobile application designed to help students find and apply for internships easily. The app provides a user-friendly interface for students to create profiles, explore internship opportunities, and apply based on their preferences and qualifications.
+**Pro Intern** is a mobile application designed to help students find and apply for internships easily while enabling recruiters to create and manage internships. The app provides a user-friendly interface for students to organize their tasks, maintain a journal, and advance their careers seamlessly.
 
-## Features
+## Features  
 
-- Role-based authentication for **Professionals** and **Interns**
-- Separate login and registration processes for both user types
-- Searchable dropdown for Sri Lankan districts
-- Ability to upload and manage profile pictures
-- Full name field in the registration process
-- User-specific dashboard for managing internship applications
-- Built with **React Native Expo** and **Firebase**
+### Role-based Authentication  
+- Separate login and registration processes for Interns and Recruiters.  
+
+### For Interns:  
+- **Search and Apply for Internships**: Discover opportunities and apply based on preferences and qualifications.  
+- **Task Manager**: Organize academic and work-related tasks.  
+- **Journal**: Plan, reflect, and track progress through a dedicated journal.  
+
+### For Recruiters:  
+- **Create and Manage Internships**: Easily post and manage internship opportunities with relevant details.  
+
+### Additional Features:  
+- Searchable dropdown for selecting Sri Lankan districts.  
+- Profile picture upload (optional).  
+- User-specific dashboards to manage applications and internships.  
 
 ## Technology Stack
 
@@ -40,25 +48,24 @@ npm install
 expo start
 ```
 
-## Key Components
+## How to Use  
 
-- **Intern_Recruit**: Component for registering interns with searchable district dropdown.
-- **ProfilePic_Recruit**: Allows users to upload or skip uploading their profile pictures.
-- **BlindHome**: For the blind user interface of the app.
-- **Onboarding1.js**: First onboarding screen introducing the app.
-- **Settings**: Contains app settings with custom font (Poppins).
+### Registration  
+- **Interns**: Provide personal information and upload a profile picture (optional).  
+- **Recruiters**: Enter relevant details about their organization and experience.  
 
-## How to Use
+### Login  
+- Authenticate using your registered email and password.  
 
-1. **Registration**: Register as either an intern or a professional.
-   - **Interns**: Provide personal information and choose a profile picture.
-   - **Professionals**: Enter relevant details about professional experience.
+### For Interns:  
+- Explore internships via the dashboard.  
+- Apply for opportunities that match your qualifications.  
+- Use the Task Manager to stay organized.  
+- Maintain a Journal to track your progress.  
 
-2. **Login**: Authenticate using email and password.
-
-3. **Dashboard**:
-   - View available internships.
-   - Apply for internships that match your skills.
+### For Recruiters:  
+- Create internships with details like title, location, and requirements.  
+- Manage applications from interested interns.  
 
 ## Custom Fonts
 
